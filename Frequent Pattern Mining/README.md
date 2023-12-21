@@ -1,5 +1,7 @@
 # Frequent-Pattern-Mining
 Apriori Algorithm Implementation in Python w/o using libraries
++ Refer to Detailed Report for Project Details.
++ Refer to readme.txt file fro detailed code execution steps
 * Links:
   - [WebPage Report](https://sway.office.com/0FcYtGIAyfPwaKs8?ref=Link)
   - [Guide to running code](https://drive.google.com/file/d/1Q3RuV7QVzqODvYb0rDGlwYNSLUJUCECg/view)
