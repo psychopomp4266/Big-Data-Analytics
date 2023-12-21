@@ -1,6 +1,8 @@
 # Frequent-Pattern-Mining
 Apriori Algorithm Implementation in Python w/o using libraries
 
+Refer to "CSOE18-BDA-Assignment_1-description.pdf" file for Problem Statement
+
 Refer to Detailed Report for Project Details.
 
 Refer to readme.txt file fro detailed code execution steps
